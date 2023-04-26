@@ -11,6 +11,7 @@ class Solution{
                 seats[i++]=1;
             }
         }
+        //java solved solution by lovneesh Sharma
         return cnt>=n;
     }
 };
