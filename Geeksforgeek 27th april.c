@@ -1,4 +1,5 @@
 class Solution{
+    /*ssss Lovneesh */
 public:
     vector<char> easyTask(int n,string s,int q,vector<vector<string>> &queries){
         vector<char> ans;
